@@ -41,12 +41,11 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        I am currently looking for an internship or part-time position in Web Development, Cybersecurity or Data Science. I am open to work in Utah or remote. I am also open to freelance work.
+                        I am currently looking for an full-time position or internship in Web Development, Software Development, Data Analytics, or Data Science. I am open to work in Utah or remote.
                     </p>
                     <a href='#contact' className='btn btn-primary'>Let's Talk</a>
                 </div>
             </div>
-
         </section>
     )
 }
